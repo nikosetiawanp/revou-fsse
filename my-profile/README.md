@@ -8,7 +8,7 @@ Hi, my name is Niko. Student of RevoU Software Engineering Program.
 
 I'm a Software Engineering Student at RevoU, and I taught myself to code 1 month ago. I follow the curriculum on The Odin Project, a free open source coding curriculum that helps students get hired as software engineer.
 
-I aim to get hired as a software engineer, as I believe the job isn't bound by location, and can be done from anywhere in the world. Well, except places without internet access.
+I aim to get hired as a software engineer, as I believe the job isn't bound by location, and can be done from anywhere in the world.
 
 I hope that i could find remote job as software engineer after graduating from RevoU, so wish me luck!
 
